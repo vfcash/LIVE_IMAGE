@@ -4,4 +4,4 @@ The "blockchain" file is from the 12th of February 2023 at 00:00 hours. Some tim
 
 I don't know how access was gained to the server and for this reason, it's become more hassle that it is worth to keep the service running.
 
-This repository contains the blockchain file, and the www directory for the [vfcash.uk](https://vfcash.uk) website.
+This repository contains the blockchain file, and the www directory for the now defunct [vfcash.uk](https://vfcash.uk) website.
